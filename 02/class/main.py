@@ -9,3 +9,6 @@ if __name__ == "__main__":
     bank_account.set_interest_rate(0.1)
     bank_account.apply_interest()
     print(bank_account.get_balance())
+
+
+
